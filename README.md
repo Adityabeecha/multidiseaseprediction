@@ -51,4 +51,4 @@ This project presents a **web-based multi-disease prediction system** capable of
 ## 📷 UI Interface
 
 > Screenshots of the application can be added here using:
-![multidiseasepredication.png](C:/Users/badit/OneDrive/Pictures/Screenshots/multidiseasepredication.png)
+![multidiseasepredication](https://github.com/user-attachments/assets/6632bc1e-3b15-45bd-9a38-9e7908cb3fc6)
